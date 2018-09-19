@@ -1,4 +1,4 @@
-# ronda-server
+# ronda-server [![Build Status](https://travis-ci.org/xsc/ronda-server.svg?branch=master)](https://travis-ci.org/xsc/ronda-server)
 
 A Clojure library to provide an [aleph][aleph]-backed HTTP server, exposing
 [ronda][ronda]-enabled routes, endpoints and middlewares.
