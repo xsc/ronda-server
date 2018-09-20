@@ -1,4 +1,4 @@
-(defproject ronda/server "0.1.0-SNAPSHOT"
+(defproject ronda/server "0.1.0"
   :description "HTTP server wrapper around ronda routes and components"
   :url "https://github.com/xsc/ronda-server"
   :license {:name "MIT License"
